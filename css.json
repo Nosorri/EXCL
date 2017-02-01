@@ -2,7 +2,7 @@
     "room":                     "Courgettes Province",
     "author":                   "Courgette",
     "icon":                     "",
-    "css":                      "https://raw.githubusercontent.com/Nosorri/EXCL/master/css1",
+    "css":                      "https://raw.githubusercontent.com/Nosorri/EXCL/master/css1.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
