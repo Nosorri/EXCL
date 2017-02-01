@@ -1,12 +1,12 @@
 {
-    "room":                     "Otaku Net",
-    "author":                   "Mr_Ben",
-    "icon":                     "http://i.imgur.com/2W5yh5k.png",
+    "room":                     "Courgettes Province",
+    "author":                   "Courgette",
+    "icon":                     "",
     "css":                      "https://dl.dropboxusercontent.com/s/dxgd88vvz7pwz3l/plugcustomcsstheme2.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
-        "allowAutojoin":        false,
+        "allowAutojoin":        true,
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
